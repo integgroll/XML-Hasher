@@ -1,0 +1,6 @@
+h1. XML Hasher
+
+Most of the documentation is in the .java file,  I will move it here when I get a chance later.
+
+*Please Help Out*
+I most likely left all sorts of memory holes I don't know about in here.  Even with my C background, I have only actually been working with Java for a couple months.  
